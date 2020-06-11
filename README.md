@@ -10,8 +10,8 @@
 # Codes and Libraies
 For Implementation, I use Python 3.7.7 and Python libraries are also required:
 
-NumPy
-Pandas
-matplotlib
-scikit-learn
-NLTK
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* NLTK
